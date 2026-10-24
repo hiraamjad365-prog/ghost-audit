@@ -1,0 +1,2 @@
+# Standard Python Library dependencies only (csv, json, os, re, pathlib)
+# Python 3.8+
